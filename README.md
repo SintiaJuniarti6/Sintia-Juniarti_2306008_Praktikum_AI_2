@@ -1,0 +1,1 @@
+# Sintia-Juniarti_2306008_Praktikum_AI_2
