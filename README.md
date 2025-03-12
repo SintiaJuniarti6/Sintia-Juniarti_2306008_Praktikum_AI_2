@@ -6,6 +6,7 @@ Uninformed Search: DFS, BFS, UCS
 Informed Search: Greedy Best-First Search, A* Tree Search, A* Graph Search
 
 📂 File dalam Repository
+
 dfs.py → Implementasi Depth First Search
 bfs.py → Implementasi Breadth First Search
 ucs.py → Implementasi Uniform Cost Search
