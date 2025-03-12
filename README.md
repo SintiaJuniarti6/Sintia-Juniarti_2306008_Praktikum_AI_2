@@ -3,6 +3,7 @@
 Repository ini berisi implementasi berbagai algoritma pencarian dalam Python, meliputi:
 
 Uninformed Search: DFS, BFS, UCS
+
 Informed Search: Greedy Best-First Search, A* Tree Search, A* Graph Search
 
 📂 File dalam Repository
